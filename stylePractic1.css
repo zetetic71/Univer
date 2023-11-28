@@ -1,0 +1,30 @@
+body{
+    background-color: rgba(29, 139, 153, 0.637)
+}
+
+.color {
+    color: #93000a;
+   font-weight: 900px;
+   font-family: Arial, sans-serif;
+ }
+ .frame {
+    background-color: rgb(181, 197, 223);
+    width: 75px;
+    height: 45px;
+    margin: 2px;
+    padding: 10px 0px 0px 0px;
+    font-size: 36px;
+    font-weight: 900px;
+    float: left;
+    font-family: Arial, sans-serif;
+    text-align: center;
+ }
+.name{
+    color:darkblue;
+    font-weight: 900;
+    width: 5%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+p{
+    color:rgb(126, 52, 18);
+}
